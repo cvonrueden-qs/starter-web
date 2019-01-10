@@ -6,5 +6,8 @@ Testing
 ## Purpose
 
 Sample website with plenty of files for demos
+Stage Test
 
 ##Test Section
+
+Additional Test
