@@ -14,4 +14,4 @@ New Text for Testing
 
 Additional Test
 ###Copyright
-2019 cvonrueden-qs
+2019 cvonrueden-qs All rights reserved
