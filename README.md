@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Testing
 Adding line for rebase example, more changes from myfeature branch
+Updating for stash
 
 ## Purpose
 
