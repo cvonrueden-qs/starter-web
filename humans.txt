@@ -3,7 +3,7 @@
 
 # TEAM
 
-    cvonrueden -- <role> -- <twitter>
+    cvonrueden -- DEV -- <twitter>
 
 # THANKS
 
