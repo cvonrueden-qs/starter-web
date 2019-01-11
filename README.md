@@ -11,3 +11,5 @@ Stage Test
 ##Test Section
 
 Additional Test
+###Copyright
+2019 cvonrueden-qs
